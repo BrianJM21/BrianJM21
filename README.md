@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrianJM21
 - 👀 I’m interested in software development
-- 🌱 I’m currently developing iOS development
+- 🌱 I’m currently developing in iOS
 - 💞️ I’m looking to collaborate on projects that enhance my skills as developer
 - 📫 How to reach me brianjmoedano@gmail.com
 
